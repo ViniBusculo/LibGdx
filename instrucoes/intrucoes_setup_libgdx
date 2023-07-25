@@ -1,0 +1,8 @@
+Baixar o arquivo 'gdx-setup.jar' no site do libgdx (https://libgdx.com/wiki/start/project-generation)
+
+Após fazer o Download abrir o jar:
+Linux: Abrir o Terminal, ir para local do arquivo jar, executar o comando:
+java -jar gdx-setup.jar
+Windows: dar 2 cliques
+
+Feito isto será Aberta uma janela de setup de projeto para LibGdx, basta configurar de acordo com suas necessidades e clicar em 'generate'

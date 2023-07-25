@@ -1,0 +1,17 @@
+Para executar os comandos abaixo você deve navegar até a pasta onde estão os arquivos LibGdx.
+
+Caso qualquer comando abaixo dê algum erro, verificar:
+- Se o Projeto foi gerado corretamente
+- o arquivo gradle.properties (limitar o xms)
+- o arquivo build.gradle 
+
+Comandos:
+
+Windows:
+para os comandos (run, build, clean): 
+.\gradlew.bat action  // SUBSTITUIR action pela ação exemplo (.\gradlew.bat run)
+
+Linux:
+para os comandos (run, build, clean): 
+./gradlew desktop:action  // SUBSTITUIR action pela ação exemplo (./gradlew desktop:run)
+
